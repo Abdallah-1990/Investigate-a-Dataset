@@ -1,6 +1,6 @@
 In this project,
 <ul>
-<li>Python was used to work on no_show_appointment dataset that collected information from 100k medical appointments in Brazil and was focused on the question of whether or not patients showed up for their appointment.</li> 
+<li>Using python, no_show_appointment dataset was used to work through the information that collected from 100k medical appointments in Brazil and was focused on the question of whether or not patients showed up for their appointment.</li> 
 
 <li>A number of characteristics about the patient were included in each row.</li>
 
